@@ -1,0 +1,23 @@
+.topnav{
+    background-color:rgb(171, 169, 169);
+    color:black;
+    text-align: left;
+    font-size:x-small;
+    margin: 0%;
+}
+
+h2{
+    font-size: 57px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.eme, input, label, select{
+    text-align: center;
+    display:inline;
+}
+
+.buttons{
+    text-align: center;
+}
+

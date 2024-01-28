@@ -1,0 +1,10 @@
+h1{
+    color: rgb(2, 2, 132);
+    font-weight: 900;
+    font-size:xx-large;
+}
+
+.eme, input{
+    display:inline;
+    text-align:center;
+}
