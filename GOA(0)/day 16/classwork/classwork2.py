@@ -1,0 +1,51 @@
+from turtle import *
+
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
+penup()
+goto(-400, 0)
+pendown()
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
+penup()
+goto(-400, -300)
+pendown()
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
+
+penup()
+goto(0, -300)
+pendown()
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
+
+exitonclick()
+
